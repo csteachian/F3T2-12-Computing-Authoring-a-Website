@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  background-color: pink;
+}
+
+h2 {
+  background-color: orange;
+}
+
+h3 {
+  background-color: khaki;
+}
+
+h4 {
+  background-color: #76b5c5;
+}
+
+p {
+  background-color: #eeeee4;
+}
